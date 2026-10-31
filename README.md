@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there! My name is *Glen*👋
+- FZUer & **26's** Sophomore
+- Computer Science&Software Engineering
+- *A little green on my major*
+- Welcomed to all your assitance 
 
 <!--
 **not-Grey-Liu/not-Grey-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
